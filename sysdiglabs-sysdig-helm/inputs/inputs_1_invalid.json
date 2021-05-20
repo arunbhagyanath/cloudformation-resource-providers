@@ -1,0 +1,9 @@
+{
+  "Name": "{{SysdigHelmContractTestReleaseName}}",
+  "ID": "{{SysdigHelmContractTestTestID}}",
+  "RoleArn": "{{SysdigHelmContractTestHelmRoleArn}}",
+  "Namespace": "sysdig",
+  "Values": {
+    "sysdig.accessKey": "test"
+  }
+}
